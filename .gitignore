@@ -1,0 +1,43 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+
+# Robot Framework
+reports/
+output/
+log.html
+report.html
+output.xml
+debug.log
+*.robot.py
+playwright-log.txt
+.txt
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.env/
+env/
+*.env
+*.env.* # dotenv environment variable files
+
+# VS Code
+.vscode/
+.history/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
